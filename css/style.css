@@ -86,6 +86,19 @@
   position: relative;
 }
 
+.slide9 {
+}
+
+.monstyle {
+  width: 30%;
+  display: block;
+  margin: auto;
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%);
+}
+
 .fullscreen-icon,
 .fullscreenExit-icon {
   position: absolute;
