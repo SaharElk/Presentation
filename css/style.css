@@ -86,15 +86,12 @@
   position: relative;
 }
 
-.slide9 {
-}
-
-.monstyle {
-  width: 30%;
+.coffee {
+  width: 35%;
   display: block;
   margin: auto;
   position: absolute;
-  top: 35%;
+  top: 33%;
   left: 50%;
   transform: translate(-50%);
 }
